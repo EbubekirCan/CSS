@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+a{  
+    text-decoration: none;
+    margin:px ;
+    font-size: 1rem;
+    color: black;
+    text-align: center;
+    padding: 1.1rem;
+    size: 3rem;
+      
+     
+
+    
+ }
+
+img{
+    width: 1.3rem;
+}
+
+header{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    text-align: center;
+    margin-left: a;
+    
+    
+}
