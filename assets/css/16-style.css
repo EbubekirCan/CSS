@@ -19,14 +19,10 @@ ul.menu{
 }
 a.main-link{
     padding: 5px;
-    font-weight: 400;
 }
 a.main-link:hover{
     color: white;
     background-color: royalblue;
-}
-a.main-link:visited{
-    color:red
 }
 ul li{
     padding:10px

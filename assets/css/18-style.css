@@ -1,31 +1,28 @@
-body{
-    font-family: 'Roboto', sans-serif;
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+header.header-el {
+  background-color: rgb(92, 88, 88);
+  text-align: center;
+  padding: 1rem;
 }
 
-a{  
-    text-decoration: none;
-    margin:px ;
-    font-size: 1rem;
-    color: black;
-    text-align: center;
-    padding: 1.1rem;
-    size: 3rem;
-      
-     
+.header-el a {
+  color:whitesmoke;
+  padding: 16px;
+  margin: 10px;
 
-    
- }
-
-img{
-    width: 1.3rem;
 }
 
-header{
-    margin-left: auto;
-    margin-right: auto;
-    background-color: gray;
-    text-align: center;
-    margin-left: a;
-    
-    
+.header-el a:hover{
+    color:#B72436
+}
+
+.header-el img{
+    width: 20px;
+    height: 16px;
 }
