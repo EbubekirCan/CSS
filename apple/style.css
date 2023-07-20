@@ -14,13 +14,13 @@ a{
     
 }
 a.extra{
-    text-decoration: underline;
+    text-decoration: none;
     text-decoration-color: black;
     text-align: center;
     color: black;
 }
 a.extra:hover{
-    background-color: blueviolet;
+    background-color: gray;
     color: white;
 }
 
@@ -33,10 +33,9 @@ a:hover{
 
 nav.nav-nd{
     
-    text-align: center;
+    
     padding:   7px;
-
-
+    height: 40px;
     background-color: gray;
 }
 
@@ -58,14 +57,15 @@ img{
 }
 .imgk3{
      
+    padding-top: 2rem;
     background-color: black;
 
     color: white;
     
 }
-
+    
 .iphone14{
-    text-align: center;
+     
     padding-top: 3rem;
 font-weight: 500;
 }
@@ -90,14 +90,12 @@ color: gray;
 
 }
 
-h2.h2be{
-     text-align: center;
-}
+ 
 
 p.satis{
     color: gray;
     font-size: 1em;
-    text-align: center;
+   
    
 
 }
@@ -105,12 +103,6 @@ p.satis{
  
 .mainn{
     text-align: center;
-}
-
-.extra4{
-
-padding-top: 1rem;
-
 }
 
 .watch{
@@ -141,4 +133,8 @@ padding-top: 1rem;
 .gelecek{
     padding-top: 1rem;
     font-size: 1.1rem;
+}
+
+.logos{
+     
 }
