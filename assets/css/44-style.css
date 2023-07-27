@@ -2,7 +2,7 @@
     --color1: rgb(70, 189, 244);
     --color2: #FBB040;
     --color3: rgb(52, 52, 52);
-    --color4:white;
+    --color4:rgb(227, 222, 222);
 
 }
 body{
@@ -36,11 +36,14 @@ justify-content: space-between;
 align-items: center;
 padding: 15px;position: sticky;
 top: 0;
+background-color: var(--color4);
+z-index: 1;
 
 
 }
 
 section.menubar img{
+    z-index: 0;
     width: 300px;
     height: auto;
 }
