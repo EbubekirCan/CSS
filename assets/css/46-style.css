@@ -19,10 +19,7 @@
 .box2{
     background-color: crimson;
     transition: transform 0.5s;
-    -webkit-transition:;
-    -moz-transition:;
-    -ms-transition:;
-    -o-transition:;
+   
 }
 
 .box2:hover{
@@ -71,8 +68,5 @@
     -o-transform: rotate(190deg) skew(45deg);
     background-color: hotpink;
     border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
+     
 }
